@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import homeLogo from "../../assets/home.svg";
+import homeLogo from "../../assets/poster.png";
 import Particle from "../Particle";
 import Type from "./Type";
 import { useTranslation } from "react-i18next";
@@ -21,7 +21,7 @@ function Home() {
 
               <h1 className="heading-name">
                 {t('Im')}
-                <strong className="main-name"> MASSIMILIANO PRONESTI</strong>
+                <strong className="main-name"> RANJITHA P</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>

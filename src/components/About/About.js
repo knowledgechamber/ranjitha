@@ -44,13 +44,9 @@ function About() {
         </h1>
 
         <Techstack />
+        
 
-        <h1 className="project-heading">
-          <strong className="green">Tools</strong> {t('IUse')}
-        </h1>
-        <Toolstack />
-
-        <Github />
+       
       </Container>
     </Container>
   );
